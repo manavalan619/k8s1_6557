@@ -1,0 +1,7 @@
+{
+  "name": "k8s1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
